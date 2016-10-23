@@ -1,0 +1,23 @@
+,name,zipCode,neighborhood,councilDistrict,policeDistrict,Location 1,longitude,latitude
+0,Central,21201,Downtown,11,CENTRAL,"400 Cathedral St Baltimore, MD ",-76.6173557536,39.29452365
+1,Brooklyn,21225,Brooklyn,10,SOUTHERN,"300 Patapsco Av Baltimore, MD ",-76.4939679751,39.3096206
+2,Canton,21224,Canton,1,SOUTHEASTERN,"1030 Ellwood St Baltimore, MD ",0.0,0.0
+3,Cherry Hill,21225,Cherry Hill,10,SOUTHERN,"606 Cherry Hill Baltimore, MD ",-76.6270196,39.2490751
+4,Clifton,21213,South Clifton Park,12,EASTERN,"2001 Wolfe St Baltimore, MD ",0.0,0.0
+5,Edmondson,21229,Rognel Heights,8,SOUTHWESTERN,"4330 Edmondson Av Baltimore, MD ",-76.6891756748,39.29388625
+6,Forest Park,21216,Forest Park,6,NORTHWESTERN,"3023 Garrison Baltimore, MD ",-76.7605298,39.4059391
+7,Govans,21212,Homeland,4,NORTHERN,"5714 Bellona Av Baltimore, MD ",-76.6112194575,39.3595391
+8,Hamilton,21214,Harford-Echodale/Perring Parkway,3,NORTHEASTERN,"5910 Harford Rd Baltimore, MD ",-76.5582646105,39.356487
+9,Hampden,21211,Hampden,7,NORTHERN,"3641 Falls Rd Baltimore, MD ",-76.6350322,39.3323056
+10,Herring Run,21213,Belair-Edison,13,NORTHEASTERN,"3801 Erdman Av Baltimore, MD ",-76.5690823127,39.3152909
+11,Light St,21230,Federal Hill,10,SOUTHERN,"1251 Light St Baltimore, MD ",-76.6117907245,39.2749336
+12,Northwood,21218,New Northwood,3,NORTHEASTERN,"4420 Loch Baltimore, MD ",-76.5909725,39.3512047
+13,Patterson Park,21224,McElderry Park,13,SOUTHEASTERN,"158 Linwood Baltimore, MD ",-76.5743554,39.2929679
+14,Pennsylvania,21217,Druid Heights,11,CENTRAL,"1531 North Av Baltimore, MD ",0.0,0.0
+15,Reisterstown,21215,Reisterstown Station,5,NORTHWESTERN,"6310 Reisterstown Baltimore, MD ",-76.8294212,39.4695489
+16,Roland Park,21210,Roland Park,6,NORTHERN,"5108 Roland Av Baltimore, MD ",-76.6350852799,39.35598425
+17,Walbrook,21216,Rosemont,7,SOUTHWESTERN,"3203 North Av Baltimore, MD ",-76.4596949,39.310429
+18,Washington Village,21230,Washington Village,11,SOUTHERN,"856 Washington Baltimore, MD ",-76.634462,39.2683132
+19,Waverly,21218,Oakenshawe,14,NORTHERN,"400 33rd St Baltimore, MD ",-76.5229999,39.326323
+20,Southeast Anchor,21224,Brewers Hill,1,SOUTHEASTERN,"3601 Eastern Ave Baltimore, MD ",-76.5667565203,39.2862365
+21,Orleans,21231,Dunbar-Broadway,12,SOUTHEASTERN,"1303 Oreleans St Baltimore, MD ",0.0,0.0

@@ -1,0 +1,514 @@
+,rel_type,Location 1,longitude,latitude,type
+0,Church,"2001 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+1,Church,"300 BROADWAY Baltimore, MD ",-76.5943628187,39.2948218,religious
+2,Church,"5010 PARK HEIGHTS AVE Baltimore, MD ",-76.6742679,39.347764,religious
+3,Church,"3606 ROGERS AVE Baltimore, MD ",0.0,0.0,religious
+4,Church,"2504 HILTON ST Baltimore, MD ",0.0,0.0,religious
+5,Church,"2402 FAYETTE ST Baltimore, MD ",0.0,0.0,religious
+6,Church,"4303 OLD YORK RD Baltimore, MD ",-76.6078094441,39.3412331154,religious
+7,Church,"2300 LLEWELYN AVE Baltimore, MD ",-76.5850099,39.307458,religious
+8,Church,"4200 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6889406302,39.3297855,religious
+9,Church,"1099 SCOTT ST Baltimore, MD ",-76.6284004632,39.27975145,religious
+10,Church,"1701 MADISON AVE Baltimore, MD ",-76.630906,39.306461,religious
+11,Church,"1206 ETTING ST Baltimore, MD ",-76.6285684,39.3009397,religious
+12,Church,"4857 REISTERSTOWN RD Baltimore, MD ",-76.6775237463,39.34226695,religious
+13,Church,"2621 OSWEGO AVE Baltimore, MD ",-76.6609919,39.336174,religious
+14,Church,"4711 EDMONDSON AVE Baltimore, MD ",-76.6994717538,39.2923479,religious
+15,Church,"430 BELVEDERE AVE Baltimore, MD ",0.0,0.0,religious
+16,Church,"430 BELVEDERE AVE Baltimore, MD ",0.0,0.0,religious
+17,Church,"1719 OLIVER ST Baltimore, MD ",-76.6500448,39.3680983,religious
+18,Church,"4315 SIDEHILL RD Baltimore, MD ",-76.6918473788,39.2976347,religious
+19,Church,"1000 ELLWOOD AVE Baltimore, MD ",0.0,0.0,religious
+20,Church,"2616 RIDGELY ST Baltimore, MD ",-76.6461223306,39.2615898,religious
+21,Church,"2001 FREDERICK AVE Baltimore, MD ",-76.6486928,39.2860213,religious
+22,Church,"433 MILLINGTON AVE Baltimore, MD ",-76.6564189,39.2804397,religious
+23,Church,"4301 RASPE AVE Baltimore, MD ",-76.534611992,39.34901075,religious
+24,Church,"1020 LAFAYETTE AVE Baltimore, MD ",-76.7366219,39.2806598,religious
+25,Church,"1616 WILKENS AVE Baltimore, MD ",-76.64296475,39.2836417,religious
+26,Church,"630 PULASKI ST Baltimore, MD ",0.0,0.0,religious
+27,Church,"1108 WOLFE ST Baltimore, MD ",0.0,0.0,religious
+28,Church,"2223 JEFFERSON ST Baltimore, MD ",-76.5858079,39.296394,religious
+29,Church,"2500 EDMONDSON AVE Baltimore, MD ",-76.6567246745,39.29494765,religious
+30,Church,"819 DUKELAND ST Baltimore, MD ",0.0,0.0,religious
+31,Church,"1630 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+32,Church,"3501 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+33,Church,"6000 ERDMAN AVE Baltimore, MD ",-76.5452426442,39.30109445,religious
+34,Church,"1352 JAMES ST Baltimore, MD ",-76.6375955928,39.2807851,religious
+35,Church,"2654 POLK ST Baltimore, MD ",-76.5951039,39.320437,religious
+36,Church,"2028 LOMBARD ST Baltimore, MD ",0.0,0.0,religious
+37,Church,"1316 PARK AVE Baltimore, MD ",-76.6241743141,39.30642535,religious
+38,Church,"214 LANVALE ST Baltimore, MD ",0.0,0.0,religious
+39,Church,"2039 EDMONDSON AVE Baltimore, MD ",-76.6501988543,39.2948898,religious
+40,Church,"2101 FREDERICK AVE Baltimore, MD ",-76.6500633,39.2855598,religious
+41,Church,"3525 CATON AVE Baltimore, MD ",-76.6677757,39.2675413,religious
+42,Church,"30 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+43,Church,"1900 SAINT PAUL ST Baltimore, MD ",-76.615217463,39.3119934,religious
+44,Church,"3000 HILLEN RD Baltimore, MD ",-76.5896267215,39.32551125,religious
+45,Church,"1915 EDMONDSON AVE Baltimore, MD ",-76.6478023197,39.29498555,religious
+46,Church,"2217 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+47,Church,"2211 DIVISION ST Baltimore, MD ",-76.6386202,39.3087171,religious
+48,Church,"1910 EDISON HWY Baltimore, MD ",-76.5734965549,39.3136238,religious
+49,Church,"1210 LANVALE ST Baltimore, MD ",0.0,0.0,religious
+50,Church,"1921 SAINT PAUL ST Baltimore, MD ",-76.61476616,39.3118757,religious
+51,Church,"4211 VERMONT AVE Baltimore, MD ",-76.6862992449,39.2858921837,religious
+52,Church,"212 25TH ST Baltimore, MD ",0.0,0.0,religious
+53,Church,"5401 FRANKFORD AVE Baltimore, MD ",-76.5414525902,39.3231256,religious
+54,Church,"2111 EDMONDSON AVE Baltimore, MD ",-76.6508179965,39.2947982,religious
+55,Church,"601 CUMBERLAND ST Baltimore, MD ",-76.6417222,39.3090788,religious
+56,Church,"429 ROBERT ST Baltimore, MD ",-76.6339242179,39.30679615,religious
+57,Church,"4200 TOWNSEND AVE Baltimore, MD ",0.0,0.0,religious
+58,Church,"6025 MORAVIA PARK DR Baltimore, MD ",-76.5421050855,39.3157974704,religious
+59,Church,"2109 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+60,Church,"4100 FRANKFORD AVE Baltimore, MD ",-76.551816961,39.33932265,religious
+61,Church,"530 UNIVERSITY PKWY Baltimore, MD ",0.0,0.0,religious
+62,Church,"2651 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+63,Church,"823 LANVALE ST Baltimore, MD ",0.0,0.0,religious
+64,Church,"6020 OLD HARFORD RD Baltimore, MD ",-76.5584859,39.358278,religious
+65,Church,"1373 STRICKER ST Baltimore, MD ",0.0,0.0,religious
+66,Church,"3459 PARK HEIGHTS AVE Baltimore, MD ",-76.6574918,39.3280902,religious
+67,Church,"1110 SAINT PAUL ST Baltimore, MD ",-76.6146763,39.3027147,religious
+68,Church,"2001 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6505888559,39.31965425,religious
+69,Church,"1305 WASHINGTON BLVD Baltimore, MD ",-76.6354044626,39.28037315,religious
+70,Church,"24 FULTON AVE Baltimore, MD ",0.0,0.0,religious
+71,Church,"700 POPLAR GROVE ST Baltimore, MD ",-76.6652137,39.2955869,religious
+72,Church,"1721 SEXTON ST Baltimore, MD ",-76.6522733,39.2685608,religious
+73,Church,"4651 PIMLICO RD Baltimore, MD ",-76.6677926897,39.3443264,religious
+74,Church,"3910 ROGERS AVE Baltimore, MD ",0.0,0.0,religious
+75,Church,"5407 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+76,Church,"2423 BIDDLE ST Baltimore, MD ",-76.5260694,39.3093234,religious
+77,Church,"1613 GORSUCH AVE Baltimore, MD ",-76.5953618,39.321461,religious
+78,Church,"255 MONROE ST Baltimore, MD ",-76.6327555,39.4584216,religious
+79,Church,"4901 PARK HEIGHTS AVE Baltimore, MD ",-76.6725392,39.3468206,religious
+80,Church,"3930 FLEET ST Baltimore, MD ",-76.5635603881,39.2860748,religious
+81,Church,"4310 EDMONDSON AVE Baltimore, MD ",-76.6876946899,39.2938649,religious
+82,Church,"5801 HARFORD RD Baltimore, MD ",-76.5584097453,39.35498265,religious
+83,Church,"1617 SARATOGA ST Baltimore, MD ",0.0,0.0,religious
+84,Church,"471 AISQUITH ST Baltimore, MD ",-76.6017298966,39.2965465862,religious
+85,Church,"700 WILDWOOD PKWY Baltimore, MD ",-76.6845820689,39.29583735,religious
+86,Church,"4408 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6923043,39.3306947,religious
+87,Church,"5513 YORK RD Baltimore, MD ",-76.6095749,39.357236,religious
+88,Church,"3531 BELAIR RD Baltimore, MD ",-76.5471528,39.341262,religious
+89,Church,"1401 EDISON HWY Baltimore, MD ",-76.5725758163,39.3074648,religious
+90,Church,"24 PRESTON ST Baltimore, MD ",0.0,0.0,religious
+91,Church,"24 PRESTON ST Baltimore, MD ",0.0,0.0,religious
+92,Church,"4302 GARRISON BLVD Baltimore, MD ",-76.6768858,39.3172304,religious
+93,Church,"2035 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+94,Church,"1314 WINSTON AVE Baltimore, MD ",-76.5959527946,39.35008345,religious
+95,Church,"5603 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+96,Church,"501 MILTON AVE Baltimore, MD ",-76.7587644,39.3522913,religious
+97,Church,"3001 BAKER ST Baltimore, MD ",-76.6676243,39.3056759,religious
+98,Church,"1542 GILMOR ST Baltimore, MD ",0.0,0.0,religious
+99,Church,"1901 FEDERAL ST Baltimore, MD ",0.0,0.0,religious
+100,Church,"1214 SARATOGA ST Baltimore, MD ",0.0,0.0,religious
+101,Church,"346 DENISON ST Baltimore, MD ",-76.6749155301,39.2915755,religious
+102,Church,"346 DENISON ST Baltimore, MD ",-76.6749155301,39.2915755,religious
+103,Church,"713 TESSIER ST Baltimore, MD ",-76.6245936,39.2966229,religious
+104,Church,"2812 REISTERSTOWN RD Baltimore, MD ",-76.6544638796,39.32040345,religious
+105,Church,"2201 GARRISON BLVD Baltimore, MD ",-76.6751505547,39.31231345,religious
+106,Church,"1100 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+107,Church,"3201 GARRISON BLVD Baltimore, MD ",-76.6820863549,39.325476,religious
+108,Church,"4238 PIMLICO RD Baltimore, MD ",-76.6637619776,39.3383813,religious
+109,Church,"4239 PARK HEIGHTS AVE Baltimore, MD ",-76.6646846,39.3380581,religious
+110,Church,"314 GILMOR ST Baltimore, MD ",0.0,0.0,religious
+111,Church,"3008 GWYNNS FALLS PKWY Baltimore, MD ",-76.6693740408,39.3146112449,religious
+112,Church,"3000 PARKSIDE DR Baltimore, MD ",-76.5742763263,39.33709075,religious
+113,Church,"3900 GROVELAND AVE Baltimore, MD ",-76.684281,39.340862,religious
+114,Church,"600 COOKS LN Baltimore, MD ",-76.702773,39.29308,religious
+115,Church,"2204 MAYFIELD AVE Baltimore, MD ",-76.5818289445,39.32859645,religious
+116,Church,"1804 KAVANAUGH ST Baltimore, MD ",-76.6468421743,39.3048562,religious
+117,Church,"1133 GREENMOUNT AVE Baltimore, MD ",-76.6076627437,39.30361825,religious
+118,Church,"3909 PENNINGTON AVE Baltimore, MD ",-76.5886153163,39.22949135,religious
+119,Church,"1950 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+120,Church,"68 KOSSUTH ST Baltimore, MD ",0.0,0.0,religious
+121,Church,"1100 HOMEWOOD AVE Baltimore, MD ",-76.6066633,39.3028666,religious
+122,Church,"2552 GREENMOUNT AVE Baltimore, MD ",-76.609609,39.319393,religious
+123,Church,"2005 CHASE ST Baltimore, MD ",0.0,0.0,religious
+124,Church,"2140 HOFFMAN ST Baltimore, MD ",0.0,0.0,religious
+125,Church,"2444 WASHINGTON BLVD Baltimore, MD ",-76.6516881,39.2676386,religious
+126,Church,"5204 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.7020309316,39.3337342,religious
+127,Church,"3403 GOUGH ST Baltimore, MD ",-76.5686314279,39.28842685,religious
+128,Church,"2525 PRESTON ST Baltimore, MD ",0.0,0.0,religious
+129,Church,"520 PONCA ST Baltimore, MD ",0.0,0.0,religious
+130,Church,"3008 OAKLEY AVE Baltimore, MD ",-76.6708340403,39.3478165,religious
+131,Church,"2214 OLIVER ST Baltimore, MD ",-76.6500448,39.3680983,religious
+132,Church,"2606 GWYNNDALE AVE Baltimore, MD ",-76.7117319077,39.32355205,religious
+133,Church,"1601 DRUID HILL AVE Baltimore, MD ",-76.6314415036,39.3046553,religious
+134,Church,"811 CATHEDRAL ST Baltimore, MD ",-76.6170687347,39.2987356122,religious
+135,Church,"1801 PRESTON ST Baltimore, MD ",0.0,0.0,religious
+136,Church,"711 WALNUT AVE Baltimore, MD ",-76.6883558686,39.29498575,religious
+137,Church,"510 MONROE ST Baltimore, MD ",-76.6327555,39.4584216,religious
+138,Church,"1325 MADISON AVE Baltimore, MD ",-76.6272506531,39.3034499796,religious
+139,Church,"1800 GAY ST Baltimore, MD ",-76.6037093,39.2964393,religious
+140,Church,"1654 SMALLWOOD ST Baltimore, MD ",0.0,0.0,religious
+141,Church,"1201 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+142,Church,"2701 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+143,Church,"300 25TH ST Baltimore, MD ",0.0,0.0,religious
+144,Church,"816 EUTAW ST Baltimore, MD ",-76.6205001,39.2831728,religious
+145,Church,"2117 PENNSYLVANIA AVE Baltimore, MD ",-76.6386748,39.3071465,religious
+146,Church,"2520 FRANCIS ST Baltimore, MD ",-76.6426518,39.3131117,religious
+147,Church,"901 POPLAR GROVE ST Baltimore, MD ",-76.6649779,39.2981881,religious
+148,Church,"1923 ASHLAND AVE Baltimore, MD ",-76.5900234989,39.3004825,religious
+149,Church,"5827 MORAVIA RD Baltimore, MD ",-76.5463705,39.3181151667,religious
+150,Church,"20 MONTGOMERY ST Baltimore, MD ",-76.7286,39.3001757,religious
+151,Church,"1220 CHESTER ST Baltimore, MD ",0.0,0.0,religious
+152,Church,"5116 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+153,Church,"2500 LOMBARD ST Baltimore, MD ",0.0,0.0,religious
+154,Church,"4231 YORK RD Baltimore, MD ",-76.6093069268,39.340952,religious
+155,Church,"4216 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6894648392,39.3299434,religious
+156,Church,"2840 THE Baltimore, MD ",-76.6107589,39.2908816,religious
+157,Church,"413 AISQUITH ST Baltimore, MD ",-76.6014705,39.2954083,religious
+158,Church,"1563 FULTON AVE Baltimore, MD ",0.0,0.0,religious
+159,Church,"4015 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.686972,39.3283716,religious
+160,Church,"2409 ROSLYN AVE Baltimore, MD ",-76.6778122385,39.3159733,religious
+161,Church,"2109 GREENMOUNT AVE Baltimore, MD ",-76.6092532751,39.31405125,religious
+162,Church,"4839 HAZELWOOD AVE Baltimore, MD ",-76.5300463399,39.3418235,religious
+163,Church,"3905 SPRINGDALE AVE Baltimore, MD ",-76.6853871016,39.3252452,religious
+164,Church,"2660 POLK ST Baltimore, MD ",-76.5948164069,39.320647,religious
+165,Church,"2660 POLK ST Baltimore, MD ",-76.5948164069,39.320647,religious
+166,Church,"6400 BELAIR RD Baltimore, MD ",-76.5335023708,39.3527707,religious
+167,Church,"5310 HARFORD RD Baltimore, MD ",-76.5629540604,39.35133585,religious
+168,Church,"2500 FREDERICK AVE Baltimore, MD ",-76.6561062511,39.2834616,religious
+169,Church,"5110 FREDERICK AVE Baltimore, MD ",-76.6996608,39.2814859,religious
+170,Church,"1752 CHESTER ST Baltimore, MD ",0.0,0.0,religious
+171,Church,"3401 MANNASOTA AVE Baltimore, MD ",-76.5698727785,39.32070185,religious
+172,Church,"3106 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6686272,39.3237113,religious
+173,Church,"1505 EUTAW PL Baltimore, MD ",-76.6279522,39.3058539,religious
+174,Church,"3200 GARRISON BLVD Baltimore, MD ",-76.6821590307,39.32436725,religious
+175,Church,"627 BOULDIN ST Baltimore, MD ",0.0,0.0,religious
+176,Church,"1701 MULBERRY ST Baltimore, MD ",0.0,0.0,religious
+177,Church,"2500 ARUNAH AVE Baltimore, MD ",-76.6565659515,39.2957249,religious
+178,Church,"1401 MILTON AVE Baltimore, MD ",-76.7587644,39.3522913,religious
+179,Church,"141 CLINTON ST Baltimore, MD ",-76.6435849,39.402314,religious
+180,Church,"309 CATHEDRAL ST Baltimore, MD ",-76.6165029682,39.29346325,religious
+181,Church,"4430 REISTERSTOWN RD Baltimore, MD ",-76.669322266,39.339535,religious
+182,Church,"5345 PARK HEIGHTS AVE Baltimore, MD ",-76.6796406667,39.350222,religious
+183,Church,"1701 CHESTER ST Baltimore, MD ",0.0,0.0,religious
+184,Church,"2118 MADISON AVE Baltimore, MD ",-76.6354994,39.3098219,religious
+185,Church,"3836 FOREST PARK AVE Baltimore, MD ",-76.7178055,39.2968557,religious
+186,Church,"829 ARLINGTON AVE Baltimore, MD ",-76.7057479,39.226499,religious
+187,Church,"2247 EUTAW PL Baltimore, MD ",-76.6349200971,39.3117673,religious
+188,Church,"417 EATON ST Baltimore, MD ",-76.5652323333,39.2873677778,religious
+189,Church,"1300 EDEN ST Baltimore, MD ",0.0,0.0,religious
+190,Church,"810 WALNUT AVE Baltimore, MD ",-76.6890112245,39.294925449,religious
+191,Church,"2901 JOSEPH AVE Baltimore, MD ",-76.6251644135,39.2507116,religious
+192,Church,"5202 PARK HEIGHTS AVE Baltimore, MD ",-76.6764045,39.3490137,religious
+193,Church,"1847 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+194,Church,"4615 ROLAND AVE Baltimore, MD ",-76.6352587576,39.3474401,religious
+195,Church,"928 GORSUCH AVE Baltimore, MD ",-76.6030656391,39.3261334,religious
+196,Church,"1414 MCCULLOH ST Baltimore, MD ",-76.6293793216,39.3035881,religious
+197,Church,"4650 REISTERSTOWN RD Baltimore, MD ",-76.6734077097,39.34059705,religious
+198,Church,"807 43RD ST Baltimore, MD ",0.0,0.0,religious
+199,Church,"4003 NORTHERN PKWY Baltimore, MD ",-76.6914821807,39.3487634254,religious
+200,Church,"6218 REISTERSTOWN RD Baltimore, MD ",-76.6649041,39.3350032,religious
+201,Church,"2819 FREDERICK AVE Baltimore, MD ",-76.663212485,39.27947005,religious
+202,Church,"2016 PRATT ST Baltimore, MD ",0.0,0.0,religious
+203,Church,"2312 HARFORD RD Baltimore, MD ",-76.5963520006,39.31632065,religious
+204,Church,"1613 CHARLOTTE AVE Baltimore, MD ",-76.5400975716,39.2736297,religious
+205,Church,"4016 PARK HEIGHTS AVE Baltimore, MD ",-76.6635808,39.3351066,religious
+206,Church,"2226 PARK AVE Baltimore, MD ",-76.6306598565,39.316215,religious
+207,Church,"4663 PIMLICO RD Baltimore, MD ",-76.6679446476,39.344794,religious
+208,Church,"1340 CALHOUN ST Baltimore, MD ",0.0,0.0,religious
+209,Church,"2519 PRESTON ST Baltimore, MD ",0.0,0.0,religious
+210,Church,"4 BROADWAY Baltimore, MD ",-76.5942427013,39.29192005,religious
+211,Church,"1501 MCCULLOH ST Baltimore, MD ",-76.6296648902,39.3044096,religious
+212,Church,"110 WEST ST Baltimore, MD ",-76.3794051,39.6689941,religious
+213,Church,"2931 MADISON ST Baltimore, MD ",0.0,0.0,religious
+214,Church,"301 MONROE ST Baltimore, MD ",-76.6327555,39.4584216,religious
+215,Church,"3200 MONUMENT ST Baltimore, MD ",0.0,0.0,religious
+216,Church,"922 PRESTON ST Baltimore, MD ",0.0,0.0,religious
+217,Church,"533 SMALLWOOD ST Baltimore, MD ",0.0,0.0,religious
+218,Church,"1501 OLIVER ST Baltimore, MD ",-76.6500448,39.3680983,religious
+219,Church,"4116 GROVELAND AVE Baltimore, MD ",-76.6891374,39.3409398,religious
+220,Church,"728 COLLINGTON AVE Baltimore, MD ",0.0,0.0,religious
+221,Church,"525 CAROLINE ST Baltimore, MD ",0.0,0.0,religious
+222,Church,"2114 EDMONDSON AVE Baltimore, MD ",-76.6510180665,39.29529635,religious
+223,Church,"1925 DUKELAND ST Baltimore, MD ",0.0,0.0,religious
+224,Church,"1714 MADISON AVE Baltimore, MD ",-76.6318629488,39.3067223,religious
+225,Church,"3100 WALBROOK AVE Baltimore, MD ",-76.6696521255,39.31039055,religious
+226,Church,"3500 EDMONDSON AVE Baltimore, MD ",-76.675744,39.2942954,religious
+227,Church,"814 BROADWAY Baltimore, MD ",-76.5935763,39.2820193,religious
+228,Church,"3200 WALBROOK AVE Baltimore, MD ",-76.6712823643,39.31032315,religious
+229,Church,"1400 HORNERS LN Baltimore, MD ",-76.5537909,39.30913135,religious
+230,Church,"1501 GILMOR ST Baltimore, MD ",0.0,0.0,religious
+231,Church,"3523 HAYWARD AVE Baltimore, MD ",-76.6806331111,39.3486732222,religious
+232,Church,"2301 MAYFIELD AVE Baltimore, MD ",-76.5810924028,39.32733635,religious
+233,Church,"1013 DURHAM ST Baltimore, MD ",0.0,0.0,religious
+234,Church,"2043 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+235,Church,"1429 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+236,Church,"1219 DRUID HILL AVE Baltimore, MD ",-76.6277345273,39.3014825811,religious
+237,Church,"4602 SIPPLE AVE Baltimore, MD ",-76.5532137256,39.3271753,religious
+238,Church,"520 DOSWELL AVE Baltimore, MD ",-76.6581470281,39.29414875,religious
+239,Church,"1700 CAROLINE ST Baltimore, MD ",0.0,0.0,religious
+240,Church,"5501 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.7059277577,39.334251,religious
+241,Church,"4321 OLD YORK RD Baltimore, MD ",-76.6072459,39.342815,religious
+242,Church,"4321 OLD YORK RD Baltimore, MD ",-76.6072459,39.342815,religious
+243,Church,"745 FAYETTE ST Baltimore, MD ",0.0,0.0,religious
+244,Church,"745 FAYETTE ST Baltimore, MD ",0.0,0.0,religious
+245,Church,"1407 BOLTON ST Baltimore, MD ",-76.6250829796,39.3063589796,religious
+246,Church,"5239 REISTERSTOWN RD Baltimore, MD ",-76.6847200977,39.34405785,religious
+247,Church,"3050 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6668274724,39.32319275,religious
+248,Church,"5011 PARK HEIGHTS AVE Baltimore, MD ",-76.6739549983,39.3479725543,religious
+249,Church,"3131 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+250,Church,"528 22ND ST Baltimore, MD ",0.0,0.0,religious
+251,Church,"5828 YORK RD Baltimore, MD ",-76.6098886,39.355177,religious
+252,Church,"1308 BEASON ST Baltimore, MD ",-76.5937224175,39.2723406,religious
+253,Church,"3215 BELVEDERE AVE Baltimore, MD ",0.0,0.0,religious
+254,Church,"4815 EASTERN AVE Baltimore, MD ",-76.5552829,39.2869347,religious
+255,Church,"2720 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+256,Church,"1025 POTOMAC ST Baltimore, MD ",0.0,0.0,religious
+257,Church,"230 FULTON AVE Baltimore, MD ",0.0,0.0,religious
+258,Church,"1801 BOND ST Baltimore, MD ",0.0,0.0,religious
+259,Church,"710 POPLAR GROVE ST Baltimore, MD ",-76.6651552,39.2959927,religious
+260,Church,"1301 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+261,Church,"214 LOUDON AVE Baltimore, MD ",-76.6881093,39.3179534,religious
+262,Church,"2610 GARRISON BLVD Baltimore, MD ",-76.6768858,39.3172304,religious
+263,Church,"1401 PENNSYLVANIA AVE Baltimore, MD ",-76.6317847614,39.3016777,religious
+264,Church,"211 BROADWAY Baltimore, MD ",-76.5933658,39.2888866,religious
+265,Church,"2024 ORLEANS ST Baltimore, MD ",-76.5886209,39.2955205,religious
+266,Church,"4801 SIPPLE AVE Baltimore, MD ",-76.5504790204,39.3281662,religious
+267,Church,"4801 SIPPLE AVE Baltimore, MD ",-76.5504790204,39.3281662,religious
+268,Church,"4119 REISTERSTOWN RD Baltimore, MD ",-76.665145875,39.33548575,religious
+269,Church,"2608 FREDERICK AVE Baltimore, MD ",-76.6576751,39.2824596,religious
+270,Church,"2539 OLIVER ST Baltimore, MD ",-76.6500448,39.3680983,religious
+271,Church,"2809 RAYNER AVE Baltimore, MD ",-76.6631433562,39.29610385,religious
+272,Church,"1433 EDMONDSON AVE Baltimore, MD ",-76.6410793,39.2951069,religious
+273,Church,"5701 YORK RD Baltimore, MD ",-76.6095879239,39.3589685,religious
+274,Church,"1901 MADISON AVE Baltimore, MD ",-76.6327577087,39.3081941,religious
+275,Church,"817 MOUNT ST Baltimore, MD ",0.0,0.0,religious
+276,Church,"601 SCHROEDER ST Baltimore, MD ",0.0,0.0,religious
+277,Church,"3600 ROGERS AVE Baltimore, MD ",0.0,0.0,religious
+278,Church,"EUTAW PL Baltimore, MD ",-76.6393216,39.3157684,religious
+279,Church,"3115 EASTERN AVE Baltimore, MD ",-76.5723786428,39.28622805,religious
+280,Church,"629 WASHINGTON ST Baltimore, MD ",-76.6337037,39.4518916,religious
+281,Church,"1137 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+282,Church,"4629 YORK RD Baltimore, MD ",-76.6093623,39.345128,religious
+283,Church,"1700 MCCULLOH ST Baltimore, MD ",-76.6320169,39.305612,religious
+284,Church,"806 CHERRY HILL RD Baltimore, MD ",-76.6258102487,39.2493203087,religious
+285,Church,"2869 FRANKLIN ST Baltimore, MD ",0.0,0.0,religious
+286,Church,"2432 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+287,Church,"1301 CAROLINE ST Baltimore, MD ",0.0,0.0,religious
+288,Church,"929 FAYETTE ST Baltimore, MD ",0.0,0.0,religious
+289,Church,"2700 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+290,Church,"2604 BANISTER RD Baltimore, MD ",-76.6596156855,39.3474673,religious
+291,Church,"1865 GAY ST Baltimore, MD ",-76.6037093,39.2964393,religious
+292,Church,"1515 EAGER ST Baltimore, MD ",0.0,0.0,religious
+293,Church,"1124 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+294,Church,"4907 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6993191794,39.3322887,religious
+295,Church,"2613 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6593597307,39.3201489,religious
+296,Church,"3201 THE Baltimore, MD ",-76.6107589,39.2908816,religious
+297,Church,"1329 SARATOGA ST Baltimore, MD ",0.0,0.0,religious
+298,Church,"2311 GARRISON BLVD Baltimore, MD ",-76.6764898334,39.31499125,religious
+299,Church,"1400 EDEN ST Baltimore, MD ",0.0,0.0,religious
+300,Church,"3644 ROLAND AVE Baltimore, MD ",-76.6330509118,39.33250505,religious
+301,Church,"850 HARLEM AVE Baltimore, MD ",-76.6325874125,39.29707225,religious
+302,Church,"2304 CALVERTON HEIGHTS AVE Baltimore, MD ",-76.6540366297,39.29790195,religious
+303,Church,"701 CHERRY HILL RD Baltimore, MD ",-76.6242756666,39.24907375,religious
+304,Church,"3114 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+305,Church,"1 HAMILTON ST Baltimore, MD ",0.0,0.0,religious
+306,Church,"100 FULTON AVE Baltimore, MD ",0.0,0.0,religious
+307,Church,"1805 WICKES AVE Baltimore, MD ",-76.6557259426,39.26464095,religious
+308,Church,"3069 SPAULDING AVE Baltimore, MD ",-76.6735807122,39.34878165,religious
+309,Church,"3114 GARRISON BLVD Baltimore, MD ",-76.6816338048,39.3236634,religious
+310,Church,"120 FRONT ST Baltimore, MD ",-76.6092934,39.294182,religious
+311,Church,"2016 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+312,Church,"809 SARATOGA ST Baltimore, MD ",0.0,0.0,religious
+313,Church,"718 LAFAYETTE AVE Baltimore, MD ",-76.7356344331,39.2851774185,religious
+314,Church,"3043 BELVEDERE AVE Baltimore, MD ",0.0,0.0,religious
+315,Church,"1716 GWYNNS FALLS PKWY Baltimore, MD ",-76.6504977,39.3171626,religious
+316,Church,"1130 LEXINGTON ST Baltimore, MD ",0.0,0.0,religious
+317,Church,"1142 FULTON AVE Baltimore, MD ",0.0,0.0,religious
+318,Church,"1103 MONTPELIER ST Baltimore, MD ",-76.602419697,39.3239857273,religious
+319,Church,"516 SCHROEDER ST Baltimore, MD ",0.0,0.0,religious
+320,Church,"4303 PARK HEIGHTS AVE Baltimore, MD ",-76.6652586558,39.338622,religious
+321,Church,"100 HILTON ST Baltimore, MD ",0.0,0.0,religious
+322,Church,"454 CROSS ST Baltimore, MD ",-76.676574,39.2398222,religious
+323,Church,"1800 WOLFE ST Baltimore, MD ",0.0,0.0,religious
+324,Church,"24 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+325,Church,"5015 GWYNN OAK AVE Baltimore, MD ",-76.700357147,39.3301918,religious
+326,Church,"2625 NORTHERN PKWY Baltimore, MD ",-76.6929928,39.3476974,religious
+327,Church,"3200 DILLON ST Baltimore, MD ",-76.57106,39.281463,religious
+328,Church,"1512 DRUID HILL AVE Baltimore, MD ",-76.63100295,39.30375385,religious
+329,Church,"302 MASON CT Baltimore, MD ",-76.5958998,39.2880377,religious
+330,Church,"1632 HANOVER ST Baltimore, MD ",0.0,0.0,religious
+331,Church,"3400 NORMAN AVE Baltimore, MD ",-76.579427,39.326909,religious
+332,Church,"3121 WALBROOK AVE Baltimore, MD ",-76.66982,39.3100108163,religious
+333,Church,"200 BENTALOU ST Baltimore, MD ",0.0,0.0,religious
+334,Church,"1354 CAREY ST Baltimore, MD ",0.0,0.0,religious
+335,Church,"2018 CALVERT ST Baltimore, MD ",-76.6103772,39.2346244,religious
+336,Church,"3600 CLAREMONT ST Baltimore, MD ",-76.567189,39.289567,religious
+337,Church,"2601 PENNSYLVANIA AVE Baltimore, MD ",-76.6438651435,39.3115372,religious
+338,Church,"1300 DRUID HILL AVE Baltimore, MD ",-76.6290818237,39.30186135,religious
+339,Church,"1901 BELAIR RD Baltimore, MD ",-76.5830745049,39.3129122,religious
+340,Church,"3342 OLD FREDERICK RD Baltimore, MD ",-76.6733027,39.2820512,religious
+341,Church,"123 24TH ST Baltimore, MD ",0.0,0.0,religious
+342,Church,"3911 GARRISON BLVD Baltimore, MD ",-76.683169,39.3340806,religious
+343,Church,"500 39TH ST Baltimore, MD ",0.0,0.0,religious
+344,Church,"931 PRESTON ST Baltimore, MD ",0.0,0.0,religious
+345,Church,"27 CAROLINE ST Baltimore, MD ",0.0,0.0,religious
+346,Church,"617 BAKER ST Baltimore, MD ",-76.640608449,39.3082514898,religious
+347,Church,"1646 THOMAS AVE Baltimore, MD ",-76.658136102,39.3068669184,religious
+348,Church,"102 UNIVERSITY PKWY Baltimore, MD ",0.0,0.0,religious
+349,Church,"16 MONROE ST Baltimore, MD ",-76.6327555,39.4584216,religious
+350,Church,"1909 WOLFE ST Baltimore, MD ",0.0,0.0,religious
+351,Church,"2216 DIVISION ST Baltimore, MD ",-76.6389717,39.3084997,religious
+352,Church,"2231 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+353,Church,"2406 GREENMOUNT AVE Baltimore, MD ",-76.6097563427,39.31651345,religious
+354,Church,"501 FULTON AVE Baltimore, MD ",0.0,0.0,religious
+355,Church,"1106 FRANKLIN ST Baltimore, MD ",0.0,0.0,religious
+356,Church,"1700 GORSUCH AVE Baltimore, MD ",-76.5939411833,39.3210926,religious
+357,Church,"1211 MONUMENT ST Baltimore, MD ",0.0,0.0,religious
+358,Church,"1404 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+359,Church,"2629 HUNTINGDON AVE Baltimore, MD ",-76.6216051495,39.31981355,religious
+360,Church,"2900 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+361,Church,"100 HENRIETTA ST Baltimore, MD ",0.0,0.0,religious
+362,Church,"5300 EDMONDSON AVE Baltimore, MD ",-76.7115591,39.2876323,religious
+363,Church,"101 MOUNT ST Baltimore, MD ",0.0,0.0,religious
+364,Church,"940 MADISON AVE Baltimore, MD ",-76.6240073612,39.3003314,religious
+365,Church,"5718 BOWLEYS LN Baltimore, MD ",-76.5492268985,39.3173422,religious
+366,Church,"3807 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+367,Church,"3610 ELDORADO AVE Baltimore, MD ",-76.6909724915,39.3314431,religious
+368,Church,"2601 LYNDHURST AVE Baltimore, MD ",-76.6836057858,39.3155542,religious
+369,Church,"1606 LAFAYETTE AVE Baltimore, MD ",-76.7366219,39.2806598,religious
+370,Church,"3538 OLD YORK RD Baltimore, MD ",-76.6080949763,39.3320699,religious
+371,Church,"2905 GREENMOUNT AVE Baltimore, MD ",-76.6091211,39.3239854,religious
+372,Church,"2625 HOFFMAN ST Baltimore, MD ",0.0,0.0,religious
+373,Church,"205 AUGUSTA AVE Baltimore, MD ",-76.5044899,39.288022,religious
+374,Church,"1631 FEDERAL ST Baltimore, MD ",0.0,0.0,religious
+375,Church,"400 LEXINGTON ST Baltimore, MD ",0.0,0.0,religious
+376,Church,"2900 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6641408,39.3222608,religious
+377,Church,"4 UNIVERSITY PKWY Baltimore, MD ",0.0,0.0,religious
+378,Church,"5205 HARFORD RD Baltimore, MD ",-76.5932525,39.3185764,religious
+379,Church,"3101 THE Baltimore, MD ",-76.6107589,39.2908816,religious
+380,Church,"938 BROADWAY Baltimore, MD ",-76.5948125033,39.30156495,religious
+381,Church,"4501 OLD FREDERICK RD Baltimore, MD ",-76.692875947,39.2898069,religious
+382,Church,"2401 LOCH RAVEN RD Baltimore, MD ",-76.6081292325,39.31678585,religious
+383,Church,"2505 MADISON ST Baltimore, MD ",0.0,0.0,religious
+384,Church,"2209 PARK AVE Baltimore, MD ",-76.6299599984,39.31559905,religious
+385,Church,"4710 CURTIS AVE Baltimore, MD ",-76.5868875797,39.22349255,religious
+386,Church,"928 20TH ST Baltimore, MD ",0.0,0.0,religious
+387,Church,"1901 REGESTER ST Baltimore, MD ",0.0,0.0,religious
+388,Church,"110 LAFAYETTE AVE Baltimore, MD ",-76.7366219,39.2806598,religious
+389,Church,"823 CHERRY HILL RD Baltimore, MD ",-76.6266124633,39.2492238,religious
+390,Church,"859 WASHINGTON BLVD Baltimore, MD ",-76.6307084667,39.2827035,religious
+391,Church,"701 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+392,Church,"1530 PRESTON ST Baltimore, MD ",0.0,0.0,religious
+393,Church,"5423 REISTERSTOWN RD Baltimore, MD ",-76.6887992938,39.3468061082,religious
+394,Church,"1148 HOMESTEAD ST Baltimore, MD ",-76.6017317,39.3247279,religious
+395,Church,"1002 SOMERSET ST Baltimore, MD ",-76.6013060465,39.30194025,religious
+396,Church,"4200 SAINT PAUL ST Baltimore, MD ",-76.6179741,39.3401697,religious
+397,Church,"2929 DUPONT AVE Baltimore, MD ",-76.6657679,39.343966,religious
+398,Church,"938 HANOVER ST Baltimore, MD ",0.0,0.0,religious
+399,Church,"2100 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+400,Church,"3208 FREDERICK AVE Baltimore, MD ",-76.6702513,39.2807569,religious
+401,Church,"2111 ASHLAND AVE Baltimore, MD ",-76.5872861,39.3006102,religious
+402,Church,"1249 NORTH AVE Baltimore, MD ",-76.6953253648,39.2529347573,religious
+403,Church,"3812 EDMONDSON AVE Baltimore, MD ",-76.6800622308,39.2940063846,religious
+404,Church,"3812 EDMONDSON AVE Baltimore, MD ",-76.6800622308,39.2940063846,religious
+405,Church,"3100 NORTH AVE Baltimore, MD ",0.0,0.0,religious
+406,Church,"2435 MADISON ST Baltimore, MD ",0.0,0.0,religious
+407,Church,"1744 GORSUCH AVE Baltimore, MD ",-76.5930309186,39.32040895,religious
+408,Church,"1610 BRADY AVE Baltimore, MD ",-76.5798854,39.238336,religious
+409,Church,"5800 ROLAND AVE Baltimore, MD ",-76.634359,39.368196,religious
+410,Church,"5802 ROLAND AVE Baltimore, MD ",-76.6348343047,39.36853195,religious
+411,Church,"2501 EUTAW PL Baltimore, MD ",-76.6377062,39.3146452,religious
+412,Church,"1263 NORTH AVE Baltimore, MD ",-76.6949972646,39.2527243101,religious
+413,Church,"3301 THE Baltimore, MD ",-76.6107589,39.2908816,religious
+414,Church,"3400 COPLEY RD Baltimore, MD ",-76.6777578671,39.3266382,religious
+415,Church,"2200 SAINT PAUL ST Baltimore, MD ",-76.6156510872,39.3145968,religious
+416,Church,"3900 ROLAND AVE Baltimore, MD ",-76.6338092879,39.3355296,religious
+417,Church,"4003 GROVELAND AVE Baltimore, MD ",-76.6860942,39.3404692,religious
+418,Church,"3204 PRESSTMAN ST Baltimore, MD ",-76.6708925,39.3045996,religious
+419,Church,"501 GILMOR ST Baltimore, MD ",0.0,0.0,religious
+420,Church,"1385 GILMOR ST Baltimore, MD ",0.0,0.0,religious
+421,Church,"5023 GWYNN OAK AVE Baltimore, MD ",-76.7008600436,39.33018335,religious
+422,Church,"3441 KESWICK RD Baltimore, MD ",-76.6278156667,39.3296366667,religious
+423,Church,"2612 WILKENS AVE Baltimore, MD ",-76.6773622,39.2718889,religious
+424,Church,"4003 ELDERON AVE Baltimore, MD ",-76.685810375,39.3415088,religious
+425,Church,"825 YALE AVE Baltimore, MD ",-76.6915602393,39.2720507,religious
+426,Church,"3202 WOODLAND AVE Baltimore, MD ",-76.6718783041,39.34507715,religious
+427,Church,"2300 LAFAYETTE AVE Baltimore, MD ",-76.7366219,39.2806598,religious
+428,Church,"1100 EDEN ST Baltimore, MD ",0.0,0.0,religious
+429,Church,"516 EAST AVE Baltimore, MD ",-76.5103189,39.242448,religious
+430,Church,"719 POPLAR GROVE ST Baltimore, MD ",-76.6646909005,39.29642535,religious
+431,Church,"541 BEECHFIELD AVE Baltimore, MD ",0.0,0.0,religious
+432,Church,"2501 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+433,Church,"301 GILMOR ST Baltimore, MD ",0.0,0.0,religious
+434,Church,"5150 BALTIMORE NATIONAL PIKE Baltimore, MD ",-76.7114625852,39.2929803,religious
+435,Church,"3000 HUNTINGDON AVE Baltimore, MD ",-76.6245614305,39.3224803,religious
+436,Church,"1615 POPLAR GROVE ST Baltimore, MD ",-76.6652673384,39.3064588,religious
+437,Church,"5300 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+438,Church,"1034 FULTON AVE Baltimore, MD ",0.0,0.0,religious
+439,Church,"1128 PENNSYLVANIA AVE Baltimore, MD ",-76.6296963121,39.2991219,religious
+440,Church,"5750 PARK HEIGHTS AVE Baltimore, MD ",-76.6862643046,39.3534882992,religious
+441,Church,"1840 BIDDLE ST Baltimore, MD ",-76.5260694,39.3093234,religious
+442,Church,"2100 VINE ST Baltimore, MD ",-76.6503225203,39.29002225,religious
+443,Church,"2525 RIDGELY ST Baltimore, MD ",-76.6446902,39.2620514,religious
+444,Church,"3300 CLIFTON AVE Baltimore, MD ",-76.6727482535,39.3112984,religious
+445,Church,"1717 BROENING HWY Baltimore, MD ",-76.5430336011,39.2726754,religious
+446,Church,"1602 JOHNSON ST Baltimore, MD ",-76.6096277823,39.271438,religious
+447,Church,"2117 MCELDERRY ST Baltimore, MD ",-76.5869332,39.2973945,religious
+448,Church,"1208 LANVALE ST Baltimore, MD ",0.0,0.0,religious
+449,Church,"219 MOUNT ST Baltimore, MD ",0.0,0.0,religious
+450,Church,"655 BENTALOU ST Baltimore, MD ",0.0,0.0,religious
+451,Church,"217 CAREY ST Baltimore, MD ",0.0,0.0,religious
+452,Church,"600 LINWOOD AVE Baltimore, MD ",-76.5364124,39.3718398,religious
+453,Church,"833 BOND ST Baltimore, MD ",0.0,0.0,religious
+454,Church,"4700 ROLAND AVE Baltimore, MD ",-76.6364006152,39.3480899,religious
+455,Church,"1505 EDEN ST Baltimore, MD ",0.0,0.0,religious
+456,Church,"1939 WALBROOK AVE Baltimore, MD ",-76.649494643,39.31067405,religious
+457,Church,"4500 LIBERTY HEIGHTS AVE Baltimore, MD ",-76.6933373834,39.3309323,religious
+458,Church,"740 CALVERT ST Baltimore, MD ",-76.6103772,39.2346244,religious
+459,Church,"1601 RUTLAND AVE Baltimore, MD ",-76.5926265592,39.30903905,religious
+460,Church,"2230 HARFORD RD Baltimore, MD ",-76.5967185086,39.3157687,religious
+461,Church,"5400 LOCH RAVEN BLVD Baltimore, MD ",-76.5902917184,39.3558556,religious
+462,Church,"4800 HARFORD RD Baltimore, MD ",-76.5679692466,39.34492665,religious
+463,Church,"1048 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+464,Church,"306 23RD ST Baltimore, MD ",0.0,0.0,religious
+465,Church,"1905 ROSEDALE ST Baltimore, MD ",0.0,0.0,religious
+466,Church,"2901 CHARLES ST Baltimore, MD ",-76.6297372,39.4154699,religious
+467,Church,"611 AISQUITH ST Baltimore, MD ",-76.6017172,39.297371,religious
+468,Church,"5010 BRIARCLIFT RD Baltimore, MD ",-76.7081086761,39.2928686,religious
+469,Church,"1201 MONROE ST Baltimore, MD ",-76.6327555,39.4584216,religious
+470,Church,"810 CARROLLTON AVE Baltimore, MD ",-76.6398579,39.40201,religious
+471,Church,"2308 MADISON ST Baltimore, MD ",0.0,0.0,religious
+472,Church,"1216 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+473,Church,"4900 BELAIR RD Baltimore, MD ",-76.5570187153,39.33471915,religious
+474,Church,"3202 NORTH AVE Baltimore, MD ",-76.4596949,39.310429,religious
+475,Church,"4301 WOODRIDGE RD Baltimore, MD ",-76.6887753694,39.29403105,religious
+476,Church,"5242 PARK HEIGHTS AVE Baltimore, MD ",-76.6777203995,39.3492333,religious
+477,Church,"3009 GREENMOUNT AVE Baltimore, MD ",-76.6087728313,39.32536855,religious
+478,Church,"124 WASHBURN AVE Baltimore, MD ",-76.610313,39.236476,religious
+479,Church,"2616 HARFORD RD Baltimore, MD ",-76.592794,39.3195255,religious
+480,Church,"2100 MONROE ST Baltimore, MD ",-76.6327555,39.4584216,religious
+481,Church,"2417 PUGET ST Baltimore, MD ",-76.6424427714,39.2617361,religious
+482,Church,"301 28TH ST Baltimore, MD ",0.0,0.0,religious
+483,Church,"2239 FAYETTE ST Baltimore, MD ",0.0,0.0,religious
+484,Church,"1301 EUTAW PL Baltimore, MD ",-76.6258797,39.3041789,religious
+485,Church,"1700 BALTIMORE ST Baltimore, MD ",-76.5251439,39.295335,religious
+486,Church,"1225 EAGER ST Baltimore, MD ",0.0,0.0,religious
+487,Synagogue,"6107 Greenspring Ave Baltimore, MD ",-76.6775626037,39.3673263,religious
+488,Synagogue,"6200 Park Heights Ave Baltimore, MD ",-76.6931579699,39.35783405,religious
+489,Synagogue,"3120 Clarks Ln Baltimore, MD ",-76.6944301832,39.3700707,religious
+490,Synagogue,"7401 Park Heights Ave Baltimore, MD ",-76.709342786,39.37192395,religious
+491,Synagogue,"6208 Wallis Ave Baltimore, MD ",-76.6922056531,39.3591797551,religious
+492,Synagogue,"2501 Eutaw Pl Baltimore, MD ",-76.6377062,39.3146452,religious
+493,Synagogue,"5713 Park Heights Ave Baltimore, MD ",-76.6856156489,39.35379775,religious
+494,Synagogue,"27 Lloyd St Baltimore, MD ",-76.6012664624,39.2901989892,religious
+495,Synagogue,"6602 Park Heights Ave Baltimore, MD ",-76.6992754,39.3613137,religious
+496,Synagogue,"212 Coldspring Ln Baltimore, MD ",0.0,0.0,religious
+497,Synagogue,"3402 Clarks Ln Baltimore, MD ",-76.6983348144,39.36384865,religious
+498,Synagogue,"3101 Fallstaff Rd Baltimore, MD ",-76.6937555399,39.36872035,religious
+499,Synagogue,"5915 Park Heights Ave Baltimore, MD ",-76.6892042605,39.3566807,religious
+500,Synagogue,"5802 Roland Ave Baltimore, MD ",-76.6348343047,39.36853195,religious
+501,Synagogue,"7307 Seven Mile Ln Baltimore, MD ",-76.705147551,39.3721577959,religious
+502,Synagogue,"6301 Green Meadow Parkway Baltimore, MD ",-76.6732631751,39.370338,religious
+503,Synagogue,"6216 Biltmore Ave Baltimore, MD ",-76.6947651229,39.35741645,religious
+504,Synagogue,"6410 Cross Country Blvd Baltimore, MD ",-76.6923996521,39.36512685,religious
+505,Synagogue,"6214 Pimlico Rd Baltimore, MD ",-76.6777179,39.3696167,religious
+506,Synagogue,"3200 Glen Ave Baltimore, MD ",-76.6833538,39.3585659,religious
+507,Synagogue,"6813 Park Heights Ave Baltimore, MD ",-76.7022661,39.3648828,religious
+508,Synagogue,"2001 Liberty Heights Ave Baltimore, MD ",-76.6505888559,39.31965425,religious
+509,Synagogue,"5835 Park Heights Ave Baltimore, MD ",-76.68757095,39.3558004,religious
+510,Synagogue,"7310 Park Heights Ave Baltimore, MD ",-76.7105744041,39.3694426,religious
+511,Synagogue,"6201 Park Heights Ave Baltimore, MD ",-76.692757485,39.35847935,religious
+512,,"3615 Harford Rd Baltimore, MD ",-76.5932525,39.3185764,religious

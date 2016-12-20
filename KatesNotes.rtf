@@ -1,0 +1,30 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww15280\viewh12180\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs36 \cf0 >> When translating arrest data incident location addresses into geo coordinates the second time, still had issues connecting to geopy services. Relented to using coordinates provided with raw data, although these seem to be correlated with the arrest location address, instead of the incident location.\
+>> After trial and error with various map plotting tutorials online, found http://introtopython.org/visualization_earthquakes.html (most other tutorials only covered how to plot dots for one dataset, without varying the dot color or size, like we wanted)\
+>> Used Anaconda to create an environment in which to install and run matplotlib, basemap (provided mapping resource), and pillow (an image-processing library)\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 >> matplotlib basemap functionality was too low resolution!\
+>> Got sick of basemap, scrapped it for Google My Maps utility\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 >> Realized data could use a lot more cleaning \'97 went back to perform additional feature reduction\
+>> Grouped by uniform style (otherwise, would have had to do A LOT of data cleaning on unique values of crime) \'97 labels turned off, for now, to keep things clean since there\'92s so much data on one screen (but this can easily be turned on)\
+>> 90% of synagogues are in north-west Baltimore?\
+>> \
+\
+\
+Problems encountered\
+>> Different pythons on system (original, and then one Anaconda installed) prevented me from easily importing/installing/using what I needed \'97 ended up, in a blind rage, uninstalling everything (new software and old), and rebuilding everything from the ground up\
+>> geopy servers worked, and then didn\'92t work. Even when we used a different IP address.\
+>> HOLY CRAP, THERE ARE A LOT OF \'93UNIQUE\'94 CRIMES \'97 forget about cleaning this, I\'92ll just use what we have, since it\'92s a minor detail in the project\
+>> No mosques in the religious building data?! Boooooo\
+>> Google My Maps utility can only hold 2000 rows from each data set \'97 crimes had almost 130,000 rows, and vacant buildings had almost 17,000 rows \'97 what data is worth keeping???!\
+>> There are so many more vacant buildings than I was anticipating \'97 and the data doesn\'92t explain how well-kept those vacant buildings are (maybe we should forget this feature?)\
+>> We should have limited to a certain timeframe \'97 there\'92s way too much crime data, and it would have been interesting to see cause/effect of CCTV-crime data over time\
+>> \
+\
+}
